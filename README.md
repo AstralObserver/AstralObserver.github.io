@@ -1,0 +1,1 @@
+A personal portfolio site created for Melody Musmacker. Will add more to the readme as development continues.
