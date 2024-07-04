@@ -3,8 +3,6 @@ title: About
 layout: default
 ---
 
-# About
-
 ## A Space for My Projects
 
 As a bit of a scatterbrained person jumping from topic to topic, this will be a place to keep updated on all of my projects as I jump between them. Any large improvements to any of my projects will be logged here to keep me focused.
