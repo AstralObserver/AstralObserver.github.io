@@ -1,3 +1,8 @@
+---
+title: About
+layout: default
+---
+
 # About
 
 ## A Space for My Projects
