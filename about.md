@@ -1,3 +1,7 @@
+layout: page
+title: "About"
+permalink: /about
+
 # About
 
 ## A Space for My Projects
