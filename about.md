@@ -1,7 +1,4 @@
----
-title: About
-layout: default
----
+
 
 ## A Space for My Projects
 
