@@ -12,6 +12,17 @@ body {
     background: $secondary-color;
 }
 
+nav{
+    color: white;
+    ul{
+        list-style: none
+    }
+    li{
+            display: inline-block;
+            margin-right: 10px;
+    }
+}
+
 .button{
     color: $primary-color;
     background: $font-color;
