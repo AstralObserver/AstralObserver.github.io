@@ -13,9 +13,8 @@ body {
 }
 
 nav{
-    color: white;
     ul{
-        list-style: none
+        list-style-type: none
     }
     li{
             display: inline-block;
@@ -23,7 +22,7 @@ nav{
     }
 }
 
-.button{
+a{
     color: $primary-color;
     background: $font-color;
 }
