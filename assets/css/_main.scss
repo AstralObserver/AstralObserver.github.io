@@ -2,7 +2,6 @@
 # Front Matter Blank
 ---
 $font-stack: Helvetica, sans-serif;
-<<<<<<< HEAD:assets/css/_main.scss
 $font-color: #229f26;
 $primary-color: #a9abde;
 $secondary-color: #a9abde;
@@ -10,11 +9,4 @@ $secondary-color: #a9abde;
 body {
     font: 100% $font-stack;
     color: $font-color;
-=======
-$primary-color: #d63e3e;
-
-body {
-    font: 100% $font-stack;
-    color: $primary-color; 
->>>>>>> parent of 6ad6232 (Update main.scss):assets/css/main.scss
 }
