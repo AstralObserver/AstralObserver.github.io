@@ -2,9 +2,12 @@
 # Front Matter Blank
 ---
 $font-stack: Helvetica, sans-serif;
-$primary-color: #d63e3e;
+$font-color: #cce6e9;
+$primary-color: #1e0840;
+$secondary-color: #a9abde;
 
 body {
     font: 100% $font-stack;
-    color: $primary-color; 
+    color: $font-color;
+    background-color: $secondary-color;
 }
