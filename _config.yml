@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Astral Observer's Homepage
 description: A place to keep updated on the latest and greatest in my coding projects
 saas:
+  sass_dir: _sass
   style: compressed
