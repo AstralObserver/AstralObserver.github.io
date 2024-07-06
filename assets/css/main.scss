@@ -18,7 +18,7 @@ nav{
     padding-bottom: 10px;
     border: black;
     border-width: 2px;
-    border-style: none;
+    border-style: solid;
     
     ul{
         list-style: none;
@@ -31,6 +31,6 @@ nav{
         text-decoration: none;
         padding: 5px;
         border: black;
-        border-left-width: 0px;
+        border-left-style: none;
     }  
 }
