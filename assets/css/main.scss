@@ -16,18 +16,19 @@ nav{
     background: $font-color;
     padding-top: 10px;
     padding-bottom: 10px;
+    border: black;
+    border-width: 2px
     ul{
         list-style: none;
     }
     li{
             display: inline-block;
-            margin-right: 1px;
     }
     a{
         color: white;
         text-decoration: none;
         padding: 5px;
         border: black;
-        border-width: 1px;
+        border-width: 2px;
     }  
 }
