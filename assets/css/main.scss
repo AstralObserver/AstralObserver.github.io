@@ -30,8 +30,6 @@ nav{
     }
     li{
             display: inline-block;
-            border: black;
-            border-left-style: solid;
     }
     a{
         color: white;
@@ -39,5 +37,7 @@ nav{
         padding: 5px;
         padding-top: 10px;
         padding-bottom: 10px;
+        border: black;
+        border-left-style: solid;
     }  
 }
