@@ -13,8 +13,9 @@ body {
 }
 
 h1{
-    font: 200% $font-stack
-    
+    font: 200% $font-stack;
+    color: white;
+    background: $font-color;
 }
 
 nav{
