@@ -14,8 +14,6 @@ body {
 
 nav{
     background: $font-color;
-    padding-top: 10px;
-    padding-bottom: 10px;
     border: black;
     border-width: 1px;
     border-style: solid;
@@ -30,7 +28,9 @@ nav{
         color: white;
         text-decoration: none;
         padding: 5px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         border: black;
-        border-left-style: none;
+        border-left-style: solid;
     }  
 }
