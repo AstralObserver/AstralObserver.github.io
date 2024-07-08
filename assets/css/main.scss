@@ -16,8 +16,7 @@ h1{
     font: 200% $font-stack;
     color: white;
     background: $font-color;
-    margin-left: auto;
-    margin-right: auto;
+    align-content: center;
 }
 
 nav{
@@ -25,6 +24,7 @@ nav{
     border: black;
     border-width: 1px;
     border-style: solid;
+    align-content: center;
     
     ul{
         list-style: none;
