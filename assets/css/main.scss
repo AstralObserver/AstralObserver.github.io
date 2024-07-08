@@ -13,10 +13,14 @@ body {
 }
 
 h1{
-    font: 200% $font-stack;
+    font: 250% Helvetica,sans-serif;
     color: white;
-    background: $font-color;
-    align-content: center;
+    background: #190442;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    text-align: center;
+    max-width: 25%;
 }
 
 nav{
