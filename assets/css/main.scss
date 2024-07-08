@@ -23,6 +23,12 @@ h1{
     max-width: 25%;
 }
 
+h2{
+    font: 100% $font-stack;
+    color: $font-color;
+    background: $primary-color;
+}
+
 nav{
     background: $font-color;
     border: black;
