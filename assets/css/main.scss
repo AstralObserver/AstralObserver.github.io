@@ -17,14 +17,18 @@ h1{
     color: white;
     background: #190442;
     padding: 10px;
-    text-align: center;
-    max-width: 25%
 }
 
 h2{
     font: 200% $font-stack;
     color: $font-color;
     background: $primary-color;
+}
+
+section{
+    align-items: center;
+    text-align: center;
+    max-width: 75%
 }
 
 nav{
