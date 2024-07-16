@@ -17,7 +17,7 @@ h1{
     font: 250% Helvetica,sans-serif;
     text-align: center;
     color: white;
-    background: $secondary-color;
+    background: $primary-color;
     padding: 10px;
     margin: 0;
 }
@@ -39,7 +39,7 @@ section{
 }
 
 nav{
-    background: $primary-color;
+    background: $secondary-color;
     border: black;
     border-width: 1px;
     border-style: solid;
